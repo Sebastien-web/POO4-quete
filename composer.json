@@ -1,0 +1,16 @@
+{
+    "name": "sebastien/poo3",
+    "description": "",
+    "authors": [
+        {
+            "name": "Sebastien Comberousse",
+            "email": "scomberousse@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Engin\\": "src/"
+        }
+    }
+}
